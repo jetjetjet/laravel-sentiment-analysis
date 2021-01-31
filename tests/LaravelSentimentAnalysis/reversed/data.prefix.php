@@ -1,1 +1,1 @@
-a:2:{i:0;s:2:"is";i:1;s:3:"are";}
+a:3:{i:0;s:5:"tidak";i:1;s:5:"bukan";i:2;s:5:"salah";}
